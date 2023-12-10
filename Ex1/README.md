@@ -1,4 +1,3 @@
-@@ -0,0 +1,11 @@
 # NeuroStartUp
 
 ![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
